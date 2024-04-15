@@ -35,6 +35,3 @@ Ce projet consiste à implémenter des auto-encodeurs (AE), des auto-encodeurs v
 - Installer les dépendances à l'aide de `pip install -r requirements.txt`.
 - Télécharger les ensembles de données MNIST et d'art abstrait depuis les liens fournis dans le fichier README.md.
 
-## Remarques
-- Assurez-vous d'avoir une carte graphique compatible CUDA pour accélérer l'entraînement des modèles.
-- Les résultats détaillés et les analyses sont disponibles dans les notebooks Jupyter.
